@@ -1,8 +1,6 @@
-<p align = "center">
-  <h1>
-    Austin Ketron ePortfolio
-  </h1>
-</p>
+<h1 align = "center>
+  Austin Ketron ePortfolio
+</h1>
 
 
 
