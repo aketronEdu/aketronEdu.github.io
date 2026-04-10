@@ -14,7 +14,7 @@
 <p align = 'center'>You can view the original code <a href = 'https://github.com/aketronEdu/CS-300'>here.</a></p>
 <br>
 
-<div style = 'text-align: center;'>
+<div style = 'display: block; text-align: center;'>
   <img src = 'En1n2.png' width = '400' height = '300'>
 </div>
 <p align = 'center'>The CS-300 Data Structures and Algorithms project involved creating a basic program that used a search algorithm to return course information for student advisors. I created the original code for the project in February of 2025. I chose this artifact because I wanted more experience in creating GUI’s and data structures and algorithms. I took the original CLI-based program and created a basic GUI using Qt, a GUI development framework. It shows that I can take existing code and rewrite it so it functions correctly for a different use case, while also applying data structures and algorithms in a more user-friendly way. I believe I met all of the course outcomes that I planned; which were the first, second, and third outcomes, by designing an efficient program, working with data structures, and improving usability.</p>
