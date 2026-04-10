@@ -28,6 +28,8 @@
 <hr>
 <p align = 'center'>You can view the original code <a href = 'https://github.com/aketronEdu/CS-300'>here.</a></p>
 <br>
+<p align = 'center'>This artifact was also used for enhancement one.</p>
+<br>
 <p>For this enhancement, I used the same artifact that was used in the previous milestone. It was from CS-300, and the purpose of the program was to allow advisors to load, search, and delete data for different courses. It was originally created in February 2025. To do so, it uses a Binary Search Tree (BST) and iterative algorithms. I chose this artifact again because it was a good opportunity to improve my knowledge of data structures and algorithms, and further develop my ability to work with different algorithm approaches.</p>
   
 <p align = 'center'>The primary enhancement for this artifact was converting the existing recursive algorithms over to iterative. I also implemented a delete function that was missing from the original program, which improved the overall functionality of the system. Converting them from recursive to iterative will improve efficiency, even though this example isn’t very demanding, and demonstrates my ability to evaluate and modify algorithm performance. As I discussed in my journal, now that I’ve implemented this enhancement, I believe I've met the first four program outcomes, by applying data structures, improving algorithm design, and enhancing functionality. The last one will be met in the next enhancement when I improve the existing database from my CS-340 artifact.</p>
