@@ -9,7 +9,7 @@
 </div>
 
 <hr>
-<h2 align = 'center'><u>Enhancement One: Software Design and Engineering</u></h2>
+<h2 align = 'center'><strong>Enhancement One: Software Design and Engineering</strong></h2>
 <hr>
 <p align = 'center'>You can view the original code <a href = 'https://github.com/aketronEdu/CS-300'>here.</a></p>
 <br>
@@ -20,7 +20,7 @@
 <hr>
 
 
-<h2 align = 'center'><u>Enhancement Two: Algorithms and Data Structures</u></h2>
+<h2 align = 'center'><strong>Enhancement Two: Algorithms and Data Structures</strong></h2>
 <hr>
 <p align = 'center'>You can view the original code <a href = 'https://github.com/aketronEdu/CS-300'>here.</a></p>
 <br>
