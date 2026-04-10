@@ -16,7 +16,7 @@
 
   <p align = 'center'>I didn’t have too much trouble creating this enhancement, most of my trouble was figuring out how to make my existing code work with Qt. The buttons were the main trouble point, I had to add or rewrite code so that it would update the UI after I clicked them. In the original code, all of these updates were just printed on the command-line, so I had to adapt that logic to fit an event-driven system. I have some experience converting CLI-based programs into GUI programs from a few personal projects I've done. In those instances, though, I was using Python and Tkinter. So, it was interesting learning more about Qt since it’s a little more involved than Tkinter, and it helped me build on my problem-solving and programming skills.
 </p>
-<br>
+<hr>
 
 
 <h2 align = 'center'><u>Enhancement Two: Algorithms and Data Structures</u></h2>
