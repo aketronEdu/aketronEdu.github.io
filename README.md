@@ -4,9 +4,6 @@
 <head>
   <link rel="stylesheet" href="stylesheet.css">
 </head>
-<h1 align = "center">
-  Austin Ketron ePortfolio
-</h1>
 
 <body>
 <h1 align = "center">
