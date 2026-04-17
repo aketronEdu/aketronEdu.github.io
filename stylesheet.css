@@ -11,7 +11,7 @@ body {
 	background-color: #BFD4BF;
 	padding: 10px !important;
 	border-radius: 10px;
-	height: 200px;
+	min-height: 200px;
 }
 .secondaryHeader {
 	background-color: #BFD4BF;
