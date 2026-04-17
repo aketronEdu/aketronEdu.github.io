@@ -1,7 +1,6 @@
 body {
 	background-color: #E8E2D6;
 	font-family: Arial;
-	padding: 40px;
 }
 
 .mainHeader {
@@ -21,6 +20,10 @@ body {
 	border-radius: 10px;
 	animation-name: headerAnimation;
 	animation-duration: 3s;
+}
+
+p {
+	padding: 40px;
 }
 
 @keyframes headerAnimation {
