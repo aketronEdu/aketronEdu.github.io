@@ -10,6 +10,7 @@ body {
 	justify-content: center;
 	background-color: #BFD4BF;
 	border-radius: 10px;
+	width: 100% !important;
 	min-height: 200px !important;
 	animation-name: headerAnimation;
 	animation-duration: 3s;
