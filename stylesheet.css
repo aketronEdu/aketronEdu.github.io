@@ -11,9 +11,16 @@ body {
 	background-color: #BFD4BF;
 	border-radius: 10px;
 	min-height: 200px;
+	animation-name: headerAnimation;
+	animation-duration: 3s;
 }
 .secondaryHeader {
 	background-color: #BFD4BF;
 	padding: 20px;
 	border-radius: 10px;
+}
+
+@keyframes headerAnimation {
+	from {background-color:#E8E2D6;}
+	to {background-color: #BFD4BF;}
 }
