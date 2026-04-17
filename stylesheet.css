@@ -18,6 +18,8 @@ body {
 	background-color: #BFD4BF;
 	padding: 20px;
 	border-radius: 10px;
+	animation-name: headerAnimation;
+	animation-duration: 3s;
 }
 
 @keyframes headerAnimation {
