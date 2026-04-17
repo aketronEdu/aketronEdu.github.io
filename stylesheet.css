@@ -3,7 +3,14 @@ body {
 	font-family: Arial;
 	padding: 20px;
 }
+
 .mainHeader {
+	background-color: #BFD4BF;
+	padding: 20px;
+	border-radius: 10px;
+	height: 100%;
+}
+.secondaryHeader {
 	background-color: #BFD4BF;
 	padding: 20px;
 	border-radius: 10px;
